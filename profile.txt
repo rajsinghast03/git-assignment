@@ -1,2 +1,3 @@
 Name: Raj
 City: Gurgaon
+Skills: C++, Javascript
